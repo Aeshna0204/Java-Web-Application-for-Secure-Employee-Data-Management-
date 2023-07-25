@@ -11,8 +11,8 @@ At this layer view of application is made for user,the GUI is created using Java
 
 # Folder Structure
 ### DL:DATA LAYER
-hr\dl>
-'''bash
+
+'''
 hr\dl> src\com\thinking\machines\hr\dl\Exception
 '''
 

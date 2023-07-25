@@ -9,4 +9,15 @@ It deals with data structures to organize the data and fetching data at a fast r
 At this layer view of application is made for user,the GUI is created using Java Swing and AWT.
 <br><br>
 
+# Folder Structure
+### DL:DATA LAYER
+hr\dl > src->com->thinking->machines->hr->dl->Exception
+                                              Interface->dao
+                                                         dto
+                                              dao
+                                              dto
+        classes
+        dist
+        testcases
+
 

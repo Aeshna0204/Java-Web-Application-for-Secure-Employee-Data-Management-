@@ -7,13 +7,7 @@ It deals with file handling techniques to read the data from the file and perfor
 It deals with data structures to organize the data and fetching data at a fast rate,rather than finding them and reading them from file everytime.<br>
 <b>Presentation Layer (PL):</b>
 At this layer view of application is made for user,the GUI is created using Java Swing and AWT.
-<br><br>
+<br><br
 
-# Folder Structure
-### DL:DATA LAYER
-
-``` bash
-hr\dl> src\com\thinking\machines\hr\dl\Exception
-```
-
-
+### Compile Files in DATALAYER
+To compile EmployeeDAO.java

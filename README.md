@@ -8,29 +8,7 @@ It deals with data structures to organize the data and fetch data at a faster ra
 <b>Presentation Layer (PL):</b>
 At This layer, the view of the application is made for the user, and the GUI is created using Java Swing and AWT.
 <br><br>
-
-### Compile Files in DATALAYER
-To compile EmployeeDAO.java
-
-## Employee Management Desktop Application
-
-This application was designed in 3 layers (CONCEPT OF LAYERED PROGRAMMING) <br>
-<ul>
-  <li>
-<b>Data Layer:</b> This Layer was divided into 2 Parts:
-    <ul>
-   <li>File Handing Technique </li> 
-    <li>Database Technique </li>
-    </ul>
-    In the Data Layer, data can be stored by both techniques, employee data is stored in files and in databases. CRUD operations can be done using data files or databases.
-</li>
-<li>
-<b>Business Layer:</b> This Layer consists of Data Structures, as it takes too much time to perform operations and display them on Graphical User Interface while performing actions with file handling.</li>
-<li>
-<b>Presentation Layer:</b> This is a Graphical User Interface layer that uses Java Swing for programming, this layer presents employee data.</li>
-</ul>
-
-## Environment Specifications
+## Software Specificationn 
 ```bash
 C:\>java -version
 java version "20.0.2" 2023-07-18

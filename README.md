@@ -11,8 +11,6 @@ At This layer, the view of the application is made for the user, and the GUI is 
 
 ### Compile Files in DATALAYER
 To compile EmployeeDAO.java
-```bash
-
 
 ## Employee Management Desktop Application
 

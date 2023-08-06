@@ -8,7 +8,7 @@ It deals with data structures to organize the data and fetch data at a faster ra
 <b>Presentation Layer (PL):</b>
 At This layer, the view of the application is made for the user, and the GUI is created using Java Swing and AWT.
 <br><br>
-## Software Specificationn 
+## Software Specification
 ```bash
 C:\>java -version
 java version "20.0.2" 2023-07-18

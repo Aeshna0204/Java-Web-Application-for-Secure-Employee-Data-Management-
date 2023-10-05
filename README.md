@@ -1,4 +1,4 @@
-# Human-Resource-Management-System
+# Java Web Application for Secure Employee Data Management:
 A java based application that manages details about the employees working in an Organization.
 This project works with the concept of Layered Programming. It consists of three layers.<br>
 <b>Data Layer (DL):</b> 
